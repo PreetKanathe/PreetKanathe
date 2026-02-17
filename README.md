@@ -69,7 +69,7 @@
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**  
+⭐ ** Thanks for visiting my GitHub profile! **  
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBrYjBteDAybzh6ZW41MTZhZzdycGliZXFnMDlqdWx3bDhtNnQwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="240" />
 </p>
